@@ -1,0 +1,26 @@
+<!Doctype html>
+<html>
+
+<body>
+<pre>
+  <b>This is a text </b>
+  
+  <strong>This is so strong</strong>
+  
+  <em>Emphasized </em>
+  
+  <i>Italic</i>
+Mark this <mark>Marked</mark>
+
+  Dont do this: <del> Do it</del>
+<ins>inserted</ins>
+  <small> This is small</small>
+  <sub>This is sub</sub>
+  O<sub>2</sub>
+  <sup>This is sup</sup>
+  2<sup>3</sup>
+
+</pre>
+</body>
+
+</html>
