@@ -1,0 +1,19 @@
+<!Doctype html>
+<html>
+<head>
+  <title>My Page</title>
+</head>
+<body>
+<div style="color:green; background-color:yellow;">
+  <h1>
+    Hello World
+  </h1>
+  <p> This is a text<b>This is bold</b> </p>
+</div>
+  <div style="color:white; background-color:black;">
+    <h2>Another One</h2>
+    <b>Hi</b>
+  </div>
+</body>
+
+</html>
