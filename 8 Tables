@@ -1,0 +1,42 @@
+<!Doctype html>
+<html>
+
+<body>
+
+<table>
+<tr>
+  <th>Name</th>
+  <th>Age</th>
+  <th>Class</th>
+</tr>
+
+  <tr>
+    <td>Azme</td>
+    <td>18</td>
+    <td>12</td>
+    
+  </tr>
+
+  <tr>
+    <td>Jiniya</td>
+    <td>18</td>
+    <td>12</td>
+
+  </tr>
+  <tr>
+    <td>Arafat</td>
+    <td>16</td>
+    <td>10</td>
+  </tr>
+
+  <tr>
+    <td>Nabil</td>
+    <td>15</td>
+    <td>9</td>
+  </tr>
+  
+</table>
+  
+</body>
+
+</html>
