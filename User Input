@@ -1,0 +1,22 @@
+<!Doctype html>
+<html>
+<head>
+  <title>My Page</title>
+</head>
+<body>
+<form action="form.html" method="GET">
+  <label for="username"> Azme</label>
+  <br>
+   <input type="radio" name="username" id="username" value="Azme">
+  <br>
+  <label for="username2">Jiniya</label>
+  <br>
+  <input type="radio" name="username2" id="username2" value="jiniya">
+
+  <br>
+  <input type="submit" value="send">
+  
+</form>
+</body>
+
+</html>
